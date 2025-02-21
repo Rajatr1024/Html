@@ -1,0 +1,22 @@
+h1 {
+    color: teal;
+    font-size: 50px;
+    text-align: center;
+}
+p {
+    color: blue;
+    font-size: 30px;
+    text-align: center;
+}
+button {
+    background-color: teal;
+    color: white;
+    font-size: 20px;
+    padding: 10px 20px;
+    margin: 10px;
+    border: none;
+    cursor: pointer;
+}
+button:hover {
+    background-color: blue;
+}
