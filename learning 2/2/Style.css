@@ -1,22 +1,26 @@
-h1 {
-    color: teal;
-    font-size: 50px;
-    text-align: center;
-}
-p {
-    color: blue;
-    font-size: 30px;
-    text-align: center;
-}
-button {
-    background-color: teal;
-    color: white;
-    font-size: 20px;
-    padding: 10px 20px;
-    margin: 10px;
-    border: none;
-    cursor: pointer;
-}
-button:hover {
+#box{
     background-color: blue;
+    color: white;
+}
+#Heading1{
+    color: red;
+    text-align: center;
+    text-decoration:line-through;
+    font-weight:normal;
+}
+#Heading2{
+    color: green;
+    text-align: center;
+    text-decoration:underline;
+    font-weight:bold;
+}
+#Heading3{
+    color: blue;
+    text-align: center;
+    text-decoration:overline;
+    font-weight:bolder;
+}
+.btn{
+    background-color: green;
+    color: white;
 }
