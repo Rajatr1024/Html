@@ -6,7 +6,7 @@
     color: red;
     text-align: center;
     text-decoration:line-through;
-    font-weight:normal;
+    /* font-weight:normal; */
 }
 #Heading2{
     color: green;
