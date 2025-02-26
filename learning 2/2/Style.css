@@ -1,26 +1,15 @@
-#box{
-    background-color: blue;
-    color: white;
+*{
+    font-family: 'Times New Roman', Times, serif;
 }
-#Heading1{
+h1{
     color: red;
+    font-size: 50px;
     text-align: center;
-    text-decoration:line-through;
-    /* font-weight:normal; */
+    text-transform: capitalize;
 }
-#Heading2{
-    color: green;
-    text-align: center;
-    text-decoration:underline;
-    font-weight:bold;
+#outer{
+    font-size: 25px;
 }
-#Heading3{
-    color: violet;
-    text-align: center;
-    text-decoration:overline;
-    font-weight:bolder;
-}
-.btn{
-    background-color: green;
-    color: white;
+#inner{
+    font-size: 10px;
 }
