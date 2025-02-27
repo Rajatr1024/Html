@@ -1,15 +1,20 @@
 *{
-    font-family: 'Times New Roman', Times, serif;
+    padding: 0;
+    margin: 0;
+    color: white;
 }
-h1{
-    color: red;
-    font-size: 50px;
-    text-align: center;
-    text-transform: capitalize;
+#navbar{
+    height: 60px;
+    background-color: #0f1111;
 }
-#outer{
+
+#btn{
+    background-color: #f08804;
+}
+#logo{
+    color: #f08804;
     font-size: 25px;
 }
-#inner{
-    font-size: 10px;
+a{
+    margin-right: 200px;
 }
